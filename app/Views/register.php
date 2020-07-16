@@ -14,7 +14,7 @@
 
               <div class="card-body">
                 <form action="<?= base_url('user/regis') ?>"
-                methot="POST">
+                method="POST">
 
                   <div class="row">
                     <div class="form-group col-6">
